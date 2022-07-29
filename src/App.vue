@@ -15,7 +15,6 @@
         </ul>
       </div>
     </nav>
-
     <!-- Router view -->
 
     <div class="container mt-5">
